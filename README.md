@@ -5,7 +5,9 @@
 <h1 align="center">
     Olá! Eu sou o Gabriel Fontes Barroso 👋🌹
 </h1>
-<br>
+
+<br><br>
+
 <div align="center">
   <a href="https://github.com/duribeiro">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFontes3094&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
@@ -26,7 +28,7 @@
     <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img align="center" alt="microsoft office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div>
-<br><br>
+<br><br><br>
 
 <div align="center">
 
