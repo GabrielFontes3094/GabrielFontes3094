@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccbe&height=120&section=header"/>
+
 <div>
 
 <h1 align="center">
@@ -38,9 +40,15 @@
     <img align="center" alt="microsoft office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div>
 <br>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielFontes3094}/count.svg" /></p> 
+<br>
+
 <div align="center">
   <p>Feito com :heart:</p>
 </div>
 
 </div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccbe&height=120&section=footer"/>
