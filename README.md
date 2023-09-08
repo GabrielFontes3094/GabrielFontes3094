@@ -1,15 +1,28 @@
+<div>
 
-### Olá! Eu sou o Gabriel Fontes Barroso 👋
+<h1 align="center">
+    Olá! Eu sou o Gabriel Fontes Barroso 👋🌹
+</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielfontes6782/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielfontes6782/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fontes-barroso-95bb1924a/)
 [![CloudSkills](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/profile/badges)
-
-![GabrielFontes3094 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFontes3094&show_icons=true&theme=dracula)
+<br><br>
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFontes3094&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFontes3094&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+<br><br>
 
 ## Tecnologias de estudo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFontes3094&layout=compact)
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,5 +36,11 @@
     <img align="center" alt="googlecloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img align="center" alt="microsoft office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</div>
+<br>
+<div align="center">
+  <p>Feito com :heart:</p>
+</div>
+
 </div>
 
